@@ -18,7 +18,7 @@ export default class Register extends Component{
         return(
             <View >
                 
-              <ScrollView>
+              
             <View style={styles.container} >
                 
                 <Image source={require('./img/logo.png')}
@@ -60,7 +60,7 @@ export default class Register extends Component{
            
             
                 
-                 </ScrollView>
+                 
             </View>
         )
     }
